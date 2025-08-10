@@ -1,0 +1,21 @@
+{
+  "name": "귤 까기 게임 (Tangerine Peeling Game)",
+  "short_name": "귤 까기",
+  "description": "A fun game where you can peel tangerines creatively, compete in a speed-peeling challenge, and purchase new skins for your tangerines. Features a gallery for creative peels with AI-generated names.",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#F97316",
+  "background_color": "#FFFFFF"
+}
